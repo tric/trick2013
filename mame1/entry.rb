@@ -18,7 +18,7 @@
                                        Math);S=%:
 
                  Jesu, Joy of Man's Desiring
-                    Hohann Sebastian Bach
+                    Johann Sebastian Bach
 
           #
           |                       #
