@@ -1,0 +1,1 @@
+$ruby.is_a?(Object){|oriented| language}
